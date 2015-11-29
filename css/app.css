@@ -11,3 +11,36 @@ h1, h2, h3, h4, h5, h6 {
   color: #3fc8c1;
   font-family: 'Montserrat', sans-serif;
 }
+
+.right {
+  text-align: right;
+}
+
+.credit_caption {
+  color: #ef5656;
+  font-size: 18px;
+}
+
+.credit_amount {
+  color: #ef5656;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.monto_cubierto {
+  color: #55a166;
+}
+
+.payments_pending {
+  color: #55a166;
+}
+
+.subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0;
+}
+
+.green {
+  color: #55a166;
+}
