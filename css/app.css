@@ -49,3 +49,22 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px;
   background-color: #ebebeb;
 }
+
+.fulfillment_caption {
+  color: #55a166;
+  font-size: 18px;
+}
+
+.amount_fulfilled {
+  color: #55a166;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.share-header {
+  color: #ef5656;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 30px;
+}
